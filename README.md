@@ -12,3 +12,6 @@
     <li>Keras</li>
   </ul>
 </li>
+
+## 3 Code:
+<li> <a href = "https://github.com/luckymouse96/Covid-Analyze/blob/main/covid_main_code.ipynb"> Main code </a> </li>
